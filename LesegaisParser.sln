@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LesegaisParser", "LesegaisParser\LesegaisParser.csproj", "{BCA90E8C-A2DA-4BCE-9850-9A15F014BE47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LesegaisParser.Common", "LesegaisParser.Common\LesegaisParser.Common.csproj", "{88CF3421-957E-4FC5-8498-9318B9383F96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85F9EE02-861A-42BB-B9BF-96791D4A7DD0}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\Valera\AppData\Local\lesegais.db = C:\Users\Valera\AppData\Local\lesegais.db
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA90E8C-A2DA-4BCE-9850-9A15F014BE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA90E8C-A2DA-4BCE-9850-9A15F014BE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA90E8C-A2DA-4BCE-9850-9A15F014BE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA90E8C-A2DA-4BCE-9850-9A15F014BE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CF3421-957E-4FC5-8498-9318B9383F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CF3421-957E-4FC5-8498-9318B9383F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CF3421-957E-4FC5-8498-9318B9383F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CF3421-957E-4FC5-8498-9318B9383F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9668E7E5-F932-4C8A-861E-D1D8B6D69335}
+	EndGlobalSection
+EndGlobal
